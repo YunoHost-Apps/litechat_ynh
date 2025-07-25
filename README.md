@@ -8,9 +8,9 @@ It shall NOT be edited by hand.
   LiteChat, packaged for YunoHost
 </h1>
 
-Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)
+Local first AI chat app for your browser
 
-[![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://demo.example.com)
+[![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://litechat.dev/)
 [![Version: 0.2.0~ynh1](https://img.shields.io/badge/Version-0.2.0~ynh1-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/litechat/)
 
 <div align="center">
@@ -20,7 +20,7 @@ Explain in *a few (10~15) words* the purpose of the app or what it actually does
 
 
 ## Screenshots
-![Screenshot of LiteChat](./doc/screenshots/example.jpg)
+![Screenshot of LiteChat](./doc/screenshots/screenshot.png)
 
 ## 📦 Developer info
 
