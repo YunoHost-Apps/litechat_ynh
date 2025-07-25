@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+LiteChat est une application de chat modulaire, extensible et axée sur la confidentialité, conçue pour les utilisateurs, les développeurs et les équipes. Elle prend en charge plusieurs fournisseurs d'IA, l'ingénierie avancée, l'organisation par projet et de puissantes fonctionnalités de développement comme les systèmes de fichiers virtuels, l'intégration de Git et un système de modélisation complet.
