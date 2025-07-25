@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+LiteChat is a modular, extensible, and privacy-focused AI chat application designed for power users, developers, and teams. It supports multiple AI providers, advanced prompt engineering, project-based organization, and powerful developer features like virtual file systems, Git integration, and a comprehensive modding system.
