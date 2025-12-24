@@ -7,7 +7,7 @@ name = "LiteChat"
 description.en = "Local first AI chat app for your browser"
 description.fr = "Application locale de chat avec IA pour votre navigateur"
 
-version = "0.2.5~ynh1"
+version = "0.2.12~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -44,8 +44,8 @@ ram.runtime = "30M"
 
     [resources.sources.main]
     in_subdir = false
-    url = "https://github.com/DimitriGilbert/LiteChat/releases/download/0.2.5/0.2.5.zip"
-    sha256 = "7e813c6b80392dcec887db91343660ecb0532c49b863fc5a2cdbb464673ac025"
+    url = "https://github.com/DimitriGilbert/LiteChat/releases/download/0.2.12/0.2.12.zip"
+    sha256 = "82efcaec74ddd54d3a8606947e6ee80c9e2631755f2fd2deb951c56559885a53"
 
     autoupdate.strategy = "latest_github_release"
     autoupdate.asset = "[\\d\\.]+zip"
